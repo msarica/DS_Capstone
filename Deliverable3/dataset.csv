@@ -1,0 +1,17 @@
+﻿what time is it,time_now
+add milk to my shopping list,shopping
+"add egg, milk to my list",shopping
+set a timer for 5 minutes,timer
+let me know in an hour,timer
+remind me in 47 minutes,timer
+enable timer for 20 minutes,timer
+set a timer for 1 minute,timer
+set timer to 60 seconds,timer
+can you tell me the time,time_now
+what is the time,time_now
+what's in my shopping list,shopping_list
+what is in my list,shopping_list
+add bread to my list,shopping
+can you tell me what time it is,time_now
+please tell me a story about a young girl,story
+tell me a story,story
